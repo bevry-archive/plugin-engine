@@ -1,5 +1,7 @@
 # Plugin Engine
 
+**NOTE:** [This project was replaced by the functioning `pluginclerk` project.](https://github.com/bevry/pluginclerk)
+
 Currently under construction. The goal is to have an API like:
 
 ``` coffee
