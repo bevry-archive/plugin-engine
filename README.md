@@ -1,6 +1,6 @@
 # Plugin Engine
 
-**NOTE:** [This project was replaced by the functioning `pluginclerk` project.](https://github.com/bevry/pluginclerk)
+**NOTE:** [This project was replaced by the functioning `pluginloader` project.](https://github.com/bevry/pluginloader)
 
 Currently under construction. The goal is to have an API like:
 
